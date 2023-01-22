@@ -1,1 +1,2 @@
-# tasky-dev
+# tasky-appln
+ It is a task management project which will help you manage your tasks. Here you can add card for every task wherein you can add the task image, task title and task description. Once you have completed the task you have function to delete it. 
